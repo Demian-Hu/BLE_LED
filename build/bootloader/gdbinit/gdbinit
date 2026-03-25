@@ -1,0 +1,2 @@
+source E:/esp/remake/BLE_LED/build/bootloader/gdbinit/symbols
+source E:/esp/remake/BLE_LED/build/bootloader/gdbinit/connect
