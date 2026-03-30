@@ -569,11 +569,26 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("E:/esp/remake/BLE_LED/build/esp-idf/main/cmake_install.cmake")
+  include("E:/esp/remake/BLE_LED/build/esp-idf/espressif__cmake_utilities/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("E:/esp/remake/BLE_LED/build/esp-idf/lvgl/cmake_install.cmake")
+  include("E:/esp/remake/BLE_LED/build/esp-idf/espressif__esp_lcd_st7796/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("E:/esp/remake/BLE_LED/build/esp-idf/lvgl__lvgl/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("E:/esp/remake/BLE_LED/build/esp-idf/espressif__esp_lvgl_port/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("E:/esp/remake/BLE_LED/build/esp-idf/main/cmake_install.cmake")
 endif()
 

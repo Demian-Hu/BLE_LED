@@ -161,5 +161,10 @@ E:/esp/remake/BLE_LED/build/esp-idf/touch_element/libtouch_element.a
 E:/esp/remake/BLE_LED/build/esp-idf/usb/libusb.a
 E:/esp/remake/BLE_LED/build/esp-idf/wifi_provisioning/libwifi_provisioning.a
 E:/esp/remake/BLE_LED/build/esp-idf/json/libjson.a
+E:/esp/remake/BLE_LED/build/esp-idf/espressif__esp_lcd_st7796/libespressif__esp_lcd_st7796.a
+E:/esp/remake/BLE_LED/build/esp-idf/esp_lcd/libesp_lcd.a
+E:/esp/remake/BLE_LED/build/esp-idf/lvgl__lvgl/liblvgl__lvgl.a
+E:/esp/remake/BLE_LED/build/esp-idf/lvgl__lvgl/liblvgl__lvgl.a
+E:/esp/remake/BLE_LED/build/esp-idf/espressif__esp_lvgl_port/liblvgl_port_lib.a
 E:/esp/remake/BLE_LED/build/esp-idf/main/libmain.a
-E:/esp/remake/BLE_LED/build/esp-idf/lvgl/liblvgl.a
+E:/esp/remake/BLE_LED/build/esp-idf/espressif__esp_lcd_st7796/libespressif__esp_lcd_st7796.a
