@@ -25,3 +25,22 @@
 
 #### Changed
 - 将README中的日志部分转移到CHANGELOG中。
+
+### 2026-3-30
+
+#### Added
+- 为项目添加了managed_components。
+- 为项目添加了lvgl__lvgl。
+- 为项目添加了esp_lvgl_port。
+- 为项目添加了esp_lcd_st7796。
+
+#### Removed
+- 移除LVGL9.2.2所有组件。
+- 移除所有基于LVGL9.2.2编写的驱动。
+  
+#### Changed
+- 修改开发所使用的LVGL版本为9.5.0。
+- 修改了BLE_LED.c以实现用ESP32S3驱动LCD屏幕。
+
+#### Achieved
+- 实现了使用ESP32S3驱动LCD屏幕。
